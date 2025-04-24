@@ -4,9 +4,9 @@
 
 ---
 
-##快速开始
+## 快速开始
 
-###安装依赖
+### 安装依赖
 ```bash
 # 克隆仓库
 git clone https://github.com/foralove/my-test.git
@@ -22,7 +22,7 @@ python hello.py
 
 ---
 
-##代码示例
+## 代码示例
 ```python
 #hello.py
 def main():
